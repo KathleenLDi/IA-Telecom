@@ -1,0 +1,12 @@
+# Base interna TELECOM
+
+Cole aqui futuramente os procedimentos, padrões, dúvidas frequentes e informações do seu setor.
+
+Exemplo:
+- Procedimento para abertura de chamado de falha de link
+- Contatos de suporte
+- Padrões de SLA
+- Equipamentos utilizados
+- Fluxos de troubleshooting
+
+Enquanto esse arquivo estiver vazio/simples, a IA responderá com conhecimento geral de TELECOM.
