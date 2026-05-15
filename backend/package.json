@@ -1,0 +1,17 @@
+{
+  "name": "telecomia-gemini-backend",
+  "version": "1.0.0",
+  "description": "Back-end da TelecomIA usando Gemini",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "@google/genai": "latest",
+    "cors": "latest",
+    "dotenv": "latest",
+    "express": "latest"
+  }
+}
